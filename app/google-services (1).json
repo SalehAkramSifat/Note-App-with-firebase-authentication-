@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884361107559",
+    "project_id": "note-app-fe823",
+    "storage_bucket": "note-app-fe823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884361107559:android:321be328b805fe9ddf9cc2",
+        "android_client_info": {
+          "package_name": "com.sifat.mydiary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxs_KCnS7bH8cVk0MtPcpAnXyN7mVmKWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
